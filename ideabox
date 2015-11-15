@@ -1,13 +1,7 @@
 ---
 ideas:
-- :title: diet
-  :description: pizza all the time
-- :title: diet
-  :description: pizza all the time
-- :title: exercise
-  :description: play video games
-- :title: diet
-  :description: pizza all the time
+- :title: exercise*****
+  :description: "play video games\r\nfdafda\r\nfdafdafdaf"
 - :title: app
   :description: social network for dogs
 - :title: excursion
@@ -28,3 +22,5 @@ ideas:
   :description: baz
 - :title: tv
   :description: show
+- :title: adding
+  :description: item
